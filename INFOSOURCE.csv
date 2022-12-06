@@ -1,0 +1,41 @@
+INFO SOURCE,OUTCOME,RESPONSE
+Internal,Not used,138
+Internal,Low,57
+Internal,Medium,260
+Internal,High,460
+Suppliers,Not used,168
+Suppliers,Low,99
+Suppliers,Medium,280
+Suppliers,High,358
+ Customers,Not used,151
+Customers,Low,86
+Customers,Medium,273
+Customers,High,413
+ Competitors,Not used,230
+Competitors,Low,159
+Competitors,Medium,262
+Competitors,High,260
+" Consultants, commercial labs or private R&D institutes",Not used,421
+"Consultants, commercial labs or private R&D institutes",Low,177
+"Consultants, commercial labs or private R&D institutes",Medium,184
+"Consultants, commercial labs or private R&D institutes",High,116
+" Universities, other higher ed. institutions",Not used,555
+"Universities, other higher ed. institutions",Low,135
+"Universities, other higher ed. institutions",Medium,138
+"Universities, other higher ed. institutions",High,70
+ Public research institutes,Not used,551
+Public research institutes,Low,173
+Public research institutes,Medium,123
+Public research institutes,High,52
+" Conferences, fairs, exhibitions",Not used,353
+"Conferences, fairs, exhibitions",Low,168
+"Conferences, fairs, exhibitions",Medium,251
+"Conferences, fairs, exhibitions",High,144
+" Journals, trade publications",Not used,437
+"Journals, trade publications",Low,185
+"Journals, trade publications",Medium,193
+"Journals, trade publications",High,96
+"Professional, industry associations",Not used,296
+"Professional, industry associations",Low,164
+"Professional, industry associations",Medium,267
+"Professional, industry associations",High,186
